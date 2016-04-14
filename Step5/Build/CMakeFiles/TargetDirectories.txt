@@ -1,0 +1,3 @@
+/home/poulio/Documents/openSrcLabs/lab5/Step5/Build/MathFunctions/CMakeFiles/MakeTable.dir
+/home/poulio/Documents/openSrcLabs/lab5/Step5/Build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/poulio/Documents/openSrcLabs/lab5/Step5/Build/CMakeFiles/Tutorial.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../MathFunctions/MathFunctions.h
+
+/home/poulio/Documents/openSrcLabs/lab5/Step5/tutorial.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+TutorialConfig.h
+/home/poulio/Documents/openSrcLabs/lab5/Step5/TutorialConfig.h
+MathFunctions.h
+/home/poulio/Documents/openSrcLabs/lab5/Step5/MathFunctions.h
+
+TutorialConfig.h
+

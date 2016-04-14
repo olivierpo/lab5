@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/poulio/Documents/openSrcLabs/lab5/Step4/MathFunctions/MathFunctions.h
+
+/home/poulio/Documents/openSrcLabs/lab5/Step4/MathFunctions/mysqrt.cxx
+stdio.h
+-
+MathFunctions.h
+/home/poulio/Documents/openSrcLabs/lab5/Step4/MathFunctions/MathFunctions.h
+TutorialConfig.h
+/home/poulio/Documents/openSrcLabs/lab5/Step4/MathFunctions/TutorialConfig.h
+math.h
+-
+
+TutorialConfig.h
+
